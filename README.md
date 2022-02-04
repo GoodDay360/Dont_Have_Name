@@ -1,4 +1,4 @@
-![GitHub release](https://img.shields.io/github/release/GoodDay360/Dont_Have_Name.svg)
+![GitHub release](https://img.shields.io/github/v/release/GoodDay360/Dont_Have_Name.svg)
 
 <p><span style="color: #808080;">Villagers #1</span>: Hmmph! Had you heard the rumor say there is a portal open up everywhere in our worlds.&nbsp;&nbsp;</p>
 <p><span style="color: #808080;">Villagers #2</span>: Yea!&nbsp;Hmmph! I don't believe it at first, but after I saw a strange monster showing up in the forest near our village.&nbsp;Hmmph! I'm starting to believe it.&nbsp;&nbsp;</p>
