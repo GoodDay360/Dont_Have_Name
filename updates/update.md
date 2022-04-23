@@ -81,7 +81,6 @@
 - Wandering Collector
 - Fabric Waystone
 - No Pull Processors
-
 ### ===> (Client) <===
 - Lamb Dynamic Lights
 - Effective
@@ -89,7 +88,6 @@
 - Sodium
 - Sodium Extra
 - Irish Shader
-
 ### ===> (Server) <===
 - Carpet
 - Carpet Extra
