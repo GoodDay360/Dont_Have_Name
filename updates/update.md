@@ -21,7 +21,7 @@
 - Illuminations (client)
 - Servercore (Server)
 
-## [+] Updated
+## [±] Updated
 - Fabric API
 - Advancednetherite
 - AdventureZ
