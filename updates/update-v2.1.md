@@ -1,96 +1,20 @@
 ## [+] Added
-- Create (Ported, some features might missing)
-- Reese's Sodium Options (client)
-- Patchouli
-- AirHop
-- guard-villagers
-- BIomeWeatherEffect (client)
-- skylorlib
-- creeperoverhaul
-- magehand
-
-## [-] Removed
-- Terra
-- Fabric Seasons
-- Enhanced Celestials
-- Ok Zoomer (client)
-- The Guild
-- Towers of Wild Reworked
-- Dungeons Arise
-- Boat Containers
-- Illuminations (client)
-- Servercore (Server)
+- Boss of Mass Destruction
+- Cardinal Components
+- YUNG's API
+- YUNG's Better Dungeons
+- YUNG's Better Strongholds
+- YUNG's Better Mineshafts
+- YUNG's Extras
+- YUNG's Bridges
+- RpgDifficulty
+- VoidZ
+- Indium (Client)
 
 ## [±] Updated
-- Fabric API
-- Advancednetherite
-- AdventureZ
-- Arcanus
-- Architectury
-- Axolotl Items Fix
-- Balm
+- Xaero's Minimap
+- Better Nether
 - BCLib
-- Bed benefits
-- better Nether
-- Carrier
+- Create
 - Cloth Config API
-- Clumps
-- Collective
-- Comforts
-- Copper Equipments
-- Dark Enchanting
-- Dungeons Arise
-- Easy Magic
-- Eldritch Mobs
-- Enchanting Infuser
-- Expanded Storage
-- Fabric Enchantments
-- Kotlin
-- Farming For Block Heads
-- Feature NBT DeadLock be Gone
-- FerriteCore
-- Forge Config API Port
-- Friend & Foes
-- Furnace Recycle
-- GekcoLib
-- Graves Universal
-- Hookshot
-- HWG
-- Lithium
-- Lovely Snails
-- MCDA
-- MCDW
-- ModMenu
-- More Villagers
-- Mostructures
-- Mousewheelie
-- Mythic Mounts
-- NCLib
-- Pick Up Notifier
-- Puzzles Lib
-- Rat's mischief
-- Repurposed Structure
-- REI
-- Simple Backpack
-- Sit
-- Sound Physics
-- Terrarian Slimes
-- Tiny Skeleton
-- Visuality
-- Visual Workbench
-- Wandering Collector
-- Fabric Waystone
-- No Pull Processors
-### ===> (Client) <===
-- Lamb Dynamic Lights
-- Effective
-- Enchantment Lore
-- Sodium
-- Sodium Extra
-- Irish Shader
-### ===> (Server) <===
-- Carpet
-- Carpet Extra
-- Krypton
-- Alternate Current
-- Dynmap
+- Iris (Client)
