@@ -10,6 +10,7 @@
 - RpgDifficulty
 - VoidZ
 - Indium (Client)
+- Enhanced Celestials
 
 ## [±] Updated
 - Xaero's Minimap
